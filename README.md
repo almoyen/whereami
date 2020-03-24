@@ -1,0 +1,5 @@
+<p><b>"Where Am I?" is a Simple Android Native Application that uses your phone's GPS to show your current location, along with longitude, latitude, altitude and streed address.</b></p>
+
+<p> The purpose of this application is simple but powerful. The App enables hikers, drivers and bikers to know your current location and address, without using popular Map application like Google Maps.</p>
+<p> Google Maps is a compromise for your privacy since it uses your location data to track and display advertisement through out the web. <b>Where Am I</b> is a simple, lighttweight App that enables you to find out your location. Your location data is not tracked and is not sold to advertisers like other Navigation Apps. </p>
+<p> This project was created as a School Project for TAMK. All rights are reserved by the author.</p>
